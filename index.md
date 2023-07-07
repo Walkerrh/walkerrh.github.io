@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # My Passion for Investing
 
@@ -33,7 +30,7 @@ predictable outcomes.
 
 # Skill Set
 
->>Python
->>Calculus
->>Machine Learning
->>Thinkorswim
+*   Python 
+*   Calculus 
+*   Machine Learning
+*   Thinkorswim 
