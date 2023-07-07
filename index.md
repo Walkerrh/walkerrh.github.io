@@ -3,7 +3,13 @@ layout: default
 ---
 
 # My Passion for Investing
-    <p>With over five years of experience in the investment sector, my passion for the financial markets has only grown stronger. My journey began with an intense fascination for the complexities of trading stocks and stock options, leading me to dedicate more than 12 hours a day to honing my skills. However, I soon realized that to truly excel, I needed to blend my financial acumen with technological prowess. This led me to learn coding, enabling me to design, test, and implement my own trading strategies, thereby allowing me to work on projects one could only dream of. Such projects have caught the eye of fellow comrades and classmates which have joined the initiative.</p>
+
+With over five years of experience in the investment sector, my passion for the financial markets has only grown stronger. 
+My journey began with an intense fascination for the complexities of trading stocks and stock options, leading me to dedicate 
+more than 12 hours a day to honing my skills. However, I soon realized that to truly excel, I needed to blend my financial 
+acumen with technological prowess. This led me to learn coding, enabling me to design, test, and implement my own trading 
+strategies, thereby allowing me to work on projects one could only dream of. Such projects have caught the eye of fellow 
+comrades and classmates which have joined the initiative.
 
 
 # Track Record
