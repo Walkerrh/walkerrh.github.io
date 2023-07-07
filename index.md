@@ -35,4 +35,5 @@ predictable outcomes.
 *   Machine Learning
 *   Thinkorswim
 
-# [Linktree](./another-page.html).
+# [Linktree](https://linktr.ee/walkerrh_)
+
