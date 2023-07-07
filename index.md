@@ -33,7 +33,7 @@ predictable outcomes.
 
 # Skill Set
 
->> Python
->> Calculus
->> Machine Learning
->> Thinkorswim
+>>Python
+>>Calculus
+>>Machine Learning
+>>Thinkorswim
