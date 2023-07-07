@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Password Protected Page</title>
+    <script src="your-jsSHA-script-path"></script>
+</head>
+<body>
+    <input type="password" id="password" placeholder="Enter password" />
+    <button id="login-button">Login</button>
+    <div id="alert" style="display: none">Incorrect password</div>
+
+    <script>
+        document.getElementById('login-button').addEventListener('click', function () {
+            var password = document.getElementById('password').value;
+            var shaObj = new jsSHA("SHA-1", "TEXT");
+            shaObj.update(password);
+            var hash = shaObj.getHash("HEX");
+            var url = hash + "/index.html";
+            var alert = document.getElementById('alert');
+            
+            var request = new XMLHttpRequest();
+            request.open('GET', url, true);
+            
+            request.onload = function () {
+                if (request.status >= 200 && request.status < 400) {
+                    window.location = url;
+                } else {
+                    alert.style.display = 'block';
+                    password = '';
+                }
+            };
+            request.onerror = function () {
+                alert.style.display = 'block';
+                password = '';
+            };
+            request.send();
+        });
+    </script>
+</body>
+</html>
