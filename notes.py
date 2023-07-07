@@ -7,3 +7,7 @@ Vercel: Vercel is another great option, especially if you're using modern JavaSc
 
 Firebase: Firebase is a Google service that offers website hosting along with many other features like a real-time database, authentication, and cloud functions.
 """
+
+""" 
+free static qr code: https://qrcode.kaywa.com/
+"""
