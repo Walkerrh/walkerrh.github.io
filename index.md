@@ -2,6 +2,14 @@
 layout: default
 ---
 
+| Year | Type | Starting Balance | Ending Balance |
+| --- | ----------- |
+| 2023 | R&D | - | - |
+| 2022 | R&D | - | - |
+| 2021 | Cash | $5,000 | $115,000 |
+| 2020 | Paper | $100,000 | $120,000 |
+
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
