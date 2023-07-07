@@ -3,3 +3,7 @@ description: Hacker is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
+
+github:
+  zip_url: http://walkerrh.github.io
+  another_url: anotherValue
