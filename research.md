@@ -1,1 +1,1 @@
-this is to be used to upload photos and gifs to explain an investment narritive 
+I think I'm going to gatekeep this one
