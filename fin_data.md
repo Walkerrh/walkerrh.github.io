@@ -7,6 +7,26 @@ Real GDP per Capita (quarterly) 1947 to 2023
 
 ![Real GDP per Capita (quarterly) 1947 to 2023](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/884fddf7-acb7-49ea-86cb-863257a22c01)
 
+Yreasury Yield 3month (monthly) Sep 1981 to Jun 2023
+
+![Yreasury Yield 3month (monthly) Sep 1981 to Jun 2023](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/0b81bba4-7593-4791-9665-59b2e4054cd9)
+
+Yreasury Yield 2year (monthly) Jun 1976 to Jun 2023 
+
+![Yreasury Yield 2year (monthly) Jun 1976 to Jun 2023 ](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/51555135-5ffe-4809-9319-cb2ea0708c57)
+
+Yreasury Yield 5year (monthly) Apr 1953 to Jun 2023 
+
+![Yreasury Yield 5year (monthly) Apr 1953 to Jun 2023 ](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/c80437ce-0415-4f0c-aa59-321c3b82a7fa)
+
+Yreasury Yield 10year (monthly) Apr 1953 to Jun 2023 
+
+![Yreasury Yield 10year (monthly) Apr 1953 to Jun 2023 ](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/c51b9e46-8cad-4c61-b63c-2f8e2d1231aa)
+
+Yreasury Yield 30year (monthly) Feb 1977 to Jun 2023 
+
+![Yreasury Yield 30year (monthly) Feb 1977 to Jun 2023 ](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/3572e077-d915-422d-9125-9dc518b71fb3)
+
 Federal Funds Rate (weekly) July 1954 to July 2023
 
 ![Federal Funds Rate (weekly) July 1954 to July 2023](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/62f06e19-5286-4766-b8a8-5de29c64a7d9)
