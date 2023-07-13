@@ -54,3 +54,9 @@ Unemployment (monthly) 1948 to Jun 2023
 Nonfarm Payroll (monthly) 1939 to Jun 2023
 
 ![Nonfarm Payroll (monthly) 1939 to Jun 2023](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/4c8bcda0-d07e-4aae-8cdd-905d7bee1db8)
+
+F GM cointegrated 2014 to 2015
+
+![F GM Cointegrated 2014 to 2015](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/dbffb495-04aa-45de-b3cb-a922381fce51)
+
+
