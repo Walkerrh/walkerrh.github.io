@@ -11,3 +11,11 @@
 #time-display {
   margin-left: 20px;  /* Adjust as needed */
 }
+
+.container {
+  display: flex;
+}
+
+.left-side-buttons, .right-side-time-display {
+  flex: 1;
+}
