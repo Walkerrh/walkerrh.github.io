@@ -52,8 +52,7 @@
             document.getElementById('timeNY').innerHTML = 'New York Time: ' + new Intl.DateTimeFormat('en-US', {timeZone: 'America/New_York', timeStyle: 'full'}).format(d);
             document.getElementById('timeLDN').innerHTML = 'London Time: ' + new Intl.DateTimeFormat('en-GB', {timeZone: 'Europe/London', timeStyle: 'full'}).format(d);
             document.getElementById('timeDUB').innerHTML = 'Dubai Time: ' + new Intl.DateTimeFormat('en-AE', {timeZone: 'Asia/Dubai', timeStyle: 'full'}).format(d);
-            document.getElementById('timeSG').innerHTML = 'Singapore Time: ' + new Intl.DateTimeFormat('en-SG', {timeZone: 'Asia/Singapore', timeStyle: 'full'}).format(d);
-            document.getElementById('timeHK').innerHTML = 'Hong Kong Time: ' + new Intl.DateTimeFormat('en-HK', {timeZone: 'Asia/Hong_Kong', timeStyle: 'full'}).format(d);
+            document.getElementById('timeSG').innerHTML = 'Singapore & Hong Kong Time: ' + new Intl.DateTimeFormat('en-SG', {timeZone: 'Asia/Singapore', timeStyle: 'full'}).format(d);
             document.getElementById('timeTOK').innerHTML = 'Tokyo Time: ' + new Intl.DateTimeFormat('en-JP', {timeZone: 'Asia/Tokyo', timeStyle: 'full'}).format(d);
             
             setTimeout(updateTime, 1000);
