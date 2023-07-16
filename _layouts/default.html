@@ -39,6 +39,7 @@
         <p id="timeSEA"></p>
         <p id="timeNY"></p>
         <p id="timeLDN"></p>
+        <p id="timeMOS"></p>
         <p id="timeDUB"></p>
         <p id="timeSG"></p>
         <p id="timeTOK"></p>
@@ -50,6 +51,7 @@
             document.getElementById('timeSEA').innerHTML = 'Seattle Time: ' + new Intl.DateTimeFormat('en-US', {timeZone: 'America/Los_Angeles', timeStyle: 'full'}).format(d);
             document.getElementById('timeNY').innerHTML = 'New York Time: ' + new Intl.DateTimeFormat('en-US', {timeZone: 'America/New_York', timeStyle: 'full'}).format(d);
             document.getElementById('timeLDN').innerHTML = 'London Time: ' + new Intl.DateTimeFormat('en-GB', {timeZone: 'Europe/London', timeStyle: 'full'}).format(d);
+            document.getElementById('timeMOS').innerHTML = 'Moscow Time: ' + new Intl.DateTimeFormat('ru-RU', {timeZone: 'Europe/Moscow', timeStyle: 'full'}).format(d);
             document.getElementById('timeDUB').innerHTML = 'Dubai Time: ' + new Intl.DateTimeFormat('en-AE', {timeZone: 'Asia/Dubai', timeStyle: 'full'}).format(d);
             document.getElementById('timeSG').innerHTML = 'Singapore & Hong Kong Time: ' + new Intl.DateTimeFormat('en-SG', {timeZone: 'Asia/Singapore', timeStyle: 'full'}).format(d);
             document.getElementById('timeTOK').innerHTML = 'Tokyo Time: ' + new Intl.DateTimeFormat('en-JP', {timeZone: 'Asia/Tokyo', timeStyle: 'full'}).format(d);
