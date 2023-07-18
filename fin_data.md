@@ -1,3 +1,14 @@
+M1 Money Supply
+
+![M1_Money_Supply_Over_Time](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/328256ca-c44b-4fa2-9e91-4f0771e2e84f)
+
+M2 Money Supply
+
+![M2_Money_Supply_Over_Time](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/616e9f6e-9c9f-4bc6-8602-3a9188f4af2c)
+
+M3 Money Supply
+
+![M3_Money_Supply_Over_Time](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/54f183aa-2c6e-4207-a466-1adbe2b77394)
 
 Real GDP (annual) 1929 to 2022
 
