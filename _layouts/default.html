@@ -37,6 +37,7 @@
         </div>
       <div class="right-side-time-display">
         <p id="timeSEA"></p>
+        <p id="timeCHI"></p>
         <p id="timeNY"></p>
         <p id="timeLDN"></p>
         <p id="timeMOS"></p>
@@ -48,8 +49,9 @@
         function updateTime() {
             var d = new Date();
           
-            document.getElementById('timeSEA').innerHTML = 'Seattle Time: ' + new Intl.DateTimeFormat('en-US', {timeZone: 'America/Los_Angeles', timeStyle: 'full'}).format(d);
-            document.getElementById('timeNY').innerHTML = 'New York Time: ' + new Intl.DateTimeFormat('en-US', {timeZone: 'America/New_York', timeStyle: 'full'}).format(d);
+            document.getElementById('timeSEA').innerHTML = 'MTL & SEA: ' + new Intl.DateTimeFormat('en-US', {timeZone: 'America/Los_Angeles', timeStyle: 'full'}).format(d);
+            document.getElementById('timeCHI').innerHTML = 'Chicago: ' + new Intl.DateTimeFormat('en-US', {timeZone: 'America/Los_Angeles', timeStyle: 'full'}).format(d);
+            document.getElementById('timeNY').innerHTML = 'NYC & MIA: ' + new Intl.DateTimeFormat('en-US', {timeZone: 'America/Chicago', timeStyle: 'full'}).format(d);
             document.getElementById('timeLDN').innerHTML = 'London Time: ' + new Intl.DateTimeFormat('en-GB', {timeZone: 'Europe/London', timeStyle: 'full'}).format(d);
             document.getElementById('timeMOS').innerHTML = 'Moscow Time: ' + new Intl.DateTimeFormat('ru-RU', {timeZone: 'Europe/Moscow', timeStyle: 'full'}).format(d);
             document.getElementById('timeDUB').innerHTML = 'Dubai Time: ' + new Intl.DateTimeFormat('en-AE', {timeZone: 'Asia/Dubai', timeStyle: 'full'}).format(d);
