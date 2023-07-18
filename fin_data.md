@@ -10,6 +10,10 @@ M3 Money Supply
 
 ![M3_Money_Supply_Over_Time](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/54f183aa-2c6e-4207-a466-1adbe2b77394)
 
+M3 Money Supply DISCONTINUED
+
+![M3_Money_Supply_DISCONTINUED](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/f53d5415-64eb-4d9a-af1f-9aa84f72cc11)
+
 Real GDP (annual) 1929 to 2022
 
 ![Real GDP (annual) 1929 to 2022](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/c8cdca2f-4368-48d8-a7a5-10bfa270efd4)
