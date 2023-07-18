@@ -1,3 +1,7 @@
+FED Total Assets, SPY, and Recessions
+
+![FED_TA_SPY_RECESSIONS](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/d82ba884-339a-48a1-b76d-d80aa32297d4)
+
 Federal Reserve System TOTAL ASSETS
 
 ![FED_TOTAL_ASSETS](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/dde42270-ba94-4de0-b1c6-8cc8dedf1b0d)
