@@ -1,3 +1,7 @@
+Federal Reserve System TOTAL ASSETS
+
+![FED_TOTAL_ASSETS](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/dde42270-ba94-4de0-b1c6-8cc8dedf1b0d)
+
 M1 Money Supply
 
 ![M1_Money_Supply_Over_Time](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/328256ca-c44b-4fa2-9e91-4f0771e2e84f)
@@ -13,6 +17,10 @@ M3 Money Supply
 M3 Money Supply DISCONTINUED
 
 ![M3_Money_Supply_DISCONTINUED](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/f53d5415-64eb-4d9a-af1f-9aa84f72cc11)
+
+F GM cointegrated 2014 to 2015
+
+![F GM Cointegrated 2014 to 2015](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/dbffb495-04aa-45de-b3cb-a922381fce51)
 
 Real GDP (annual) 1929 to 2022
 
@@ -69,9 +77,5 @@ Unemployment (monthly) 1948 to Jun 2023
 Nonfarm Payroll (monthly) 1939 to Jun 2023
 
 ![Nonfarm Payroll (monthly) 1939 to Jun 2023](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/4c8bcda0-d07e-4aae-8cdd-905d7bee1db8)
-
-F GM cointegrated 2014 to 2015
-
-![F GM Cointegrated 2014 to 2015](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/dbffb495-04aa-45de-b3cb-a922381fce51)
 
 
