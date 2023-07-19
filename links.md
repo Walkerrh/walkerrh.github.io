@@ -27,12 +27,15 @@
 
 [Bloom]([./another-page.html(https://huggingface.co/docs/transformers/model_doc/bloom#transformers.BloomModel)https://huggingface.co/docs/transformers/model_doc/bloom#transformers.BloomModel)
 
+[CS50AI]([./another-page.html](https://cs50.harvard.edu/ai/2020/)https://cs50.harvard.edu/ai/2020/)
+
 ### Wikipedia
 
 [Cymatics]([./another-page.html](https://en.wikipedia.org/wiki/Cymatics)https://en.wikipedia.org/wiki/Cymatics)
 
+
 [
-Bloom
+CS
 ]
 (
 [./another-page.html]
