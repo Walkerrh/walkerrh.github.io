@@ -5,9 +5,18 @@
 
 [stlouisfed]([./another-page.html]https://fred.stlouisfed.org/)
 
+[usethinkscript]([./another-page.html](https://usethinkscript.com/)https://usethinkscript.com/)
 
+
+[
+usethinkscript
+]
 (
-[./another-page.html]
-(https://fred.stlouisfed.org/)
-https://fred.stlouisfed.org/
+[
+./another-page.html
+]
+(
+https://usethinkscript.com/
+)
+https://usethinkscript.com/
 )
