@@ -52,6 +52,8 @@
 
 [William_Delbert_Gann]([./another-page.html](https://en.wikipedia.org/wiki/William_Delbert_Gann)https://en.wikipedia.org/wiki/William_Delbert_Gann)
 
+[Peter_Thiel]([./another-page.html](https://en.wikipedia.org/wiki/Peter_Thiel)https://en.wikipedia.org/wiki/Peter_Thiel)
+
 ### Role Model Funds
 
 [Renaissance Technologies]([./another-page.html](https://en.wikipedia.org/wiki/Renaissance_Technologies)https://en.wikipedia.org/wiki/Renaissance_Technologies)
@@ -68,15 +70,13 @@
 
 
 
-
-
 [
-William_Delbert_Gann
+Peter_Thiel
 ]
 (
 [./another-page.html]
 (
-https://en.wikipedia.org/wiki/William_Delbert_Gann
+https://en.wikipedia.org/wiki/Peter_Thiel
 )
-https://en.wikipedia.org/wiki/William_Delbert_Gann
+https://en.wikipedia.org/wiki/Peter_Thiel
 )
