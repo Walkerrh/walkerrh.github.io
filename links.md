@@ -21,19 +21,23 @@
 
 [openai]([./another-page.html](https://chat.openai.com/)https://chat.openai.com/)
 
+[BloombergGPT]([./another-page.html](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)
+
+[arxiv BloombergGPT]([./another-page.html](https://arxiv.org/pdf/2303.17564.pdf)https://arxiv.org/pdf/2303.17564.pdf)
+
+[Bloom]([./another-page.html(https://huggingface.co/docs/transformers/model_doc/bloom#transformers.BloomModel)https://huggingface.co/docs/transformers/model_doc/bloom#transformers.BloomModel)
+
 ### Wikipedia
 
 [Cymatics]([./another-page.html](https://en.wikipedia.org/wiki/Cymatics)https://en.wikipedia.org/wiki/Cymatics)
 
 [
-Cymatics
+Bloom
 ]
 (
-[
-./another-page.html
-]
+[./another-page.html]
 (
-https://en.wikipedia.org/wiki/Cymatics
+https://huggingface.co/docs/transformers/model_doc/bloom#transformers.BloomModel
 )
-https://en.wikipedia.org/wiki/Cymatics
+https://huggingface.co/docs/transformers/model_doc/bloom#transformers.BloomModel
 )
