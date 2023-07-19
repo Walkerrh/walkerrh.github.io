@@ -17,6 +17,11 @@
 
 [usethinkscript]([./another-page.html](https://usethinkscript.com/)https://usethinkscript.com/)
 
+[alpaca-py]([./another-page.html](https://alpaca.markets/docs/python-sdk/)https://alpaca.markets/docs/python-sdk/)
+
+[Tradestation]([./another-page.html](https://www.tradestation.com/?gclid=Cj0KCQjwnrmlBhDHARIsADJ5b_mi8oDuAL-up2m7RjrKjKOVHMhLuWrPBXyN7TsPUupCm10ANJ59lvMaAkZpEALw_wcB&gclsrc=aw.ds)https://www.tradestation.com/?gclid=Cj0KCQjwnrmlBhDHARIsADJ5b_mi8oDuAL-up2m7RjrKjKOVHMhLuWrPBXyN7TsPUupCm10ANJ59lvMaAkZpEALw_wcB&gclsrc=aw.ds)
+
+
 ### AI
 
 [openai]([./another-page.html](https://chat.openai.com/)https://chat.openai.com/)
@@ -35,12 +40,12 @@
 
 
 [
-CS
+Tradestation
 ]
 (
 [./another-page.html]
 (
-https://huggingface.co/docs/transformers/model_doc/bloom#transformers.BloomModel
+https://www.tradestation.com/?gclid=Cj0KCQjwnrmlBhDHARIsADJ5b_mi8oDuAL-up2m7RjrKjKOVHMhLuWrPBXyN7TsPUupCm10ANJ59lvMaAkZpEALw_wcB&gclsrc=aw.ds
 )
-https://huggingface.co/docs/transformers/model_doc/bloom#transformers.BloomModel
+https://www.tradestation.com/?gclid=Cj0KCQjwnrmlBhDHARIsADJ5b_mi8oDuAL-up2m7RjrKjKOVHMhLuWrPBXyN7TsPUupCm10ANJ59lvMaAkZpEALw_wcB&gclsrc=aw.ds
 )
