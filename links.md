@@ -54,6 +54,8 @@
 
 [Peter_Thiel]([./another-page.html](https://en.wikipedia.org/wiki/Peter_Thiel)https://en.wikipedia.org/wiki/Peter_Thiel)
 
+[Ray_Dalio]([./another-page.html](https://en.wikipedia.org/wiki/Ray_Dalio)https://en.wikipedia.org/wiki/Ray_Dalio)
+
 ### Role Model Funds
 
 [Renaissance Technologies]([./another-page.html](https://en.wikipedia.org/wiki/Renaissance_Technologies)https://en.wikipedia.org/wiki/Renaissance_Technologies)
@@ -69,14 +71,13 @@
 
 
 
-
 [
-Peter_Thiel
+Ray_Dalio
 ]
 (
 [./another-page.html]
 (
-https://en.wikipedia.org/wiki/Peter_Thiel
+https://en.wikipedia.org/wiki/Ray_Dalio
 )
-https://en.wikipedia.org/wiki/Peter_Thiel
+https://en.wikipedia.org/wiki/Ray_Dalio
 )
