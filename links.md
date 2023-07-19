@@ -42,16 +42,41 @@
 [Cymatics]([./another-page.html](https://en.wikipedia.org/wiki/Cymatics)https://en.wikipedia.org/wiki/Cymatics)
 
 
+### Role Models
+
+[Jim_Simons]([./another-page.html](https://en.wikipedia.org/wiki/Jim_Simons_(mathematician))https://en.wikipedia.org/wiki/Jim_Simons_(mathematician))
+
+[Warren_Buffett]([./another-page.html](https://en.wikipedia.org/wiki/Warren_Buffett)https://en.wikipedia.org/wiki/Warren_Buffett)
+
+[Silver Hair Devil]([./another-page.html](https://en.wikipedia.org/wiki/Bill_Ackman)https://en.wikipedia.org/wiki/Bill_Ackman)
+
+[William_Delbert_Gann]([./another-page.html](https://en.wikipedia.org/wiki/William_Delbert_Gann)https://en.wikipedia.org/wiki/William_Delbert_Gann)
+
+### Role Model Funds
+
+[Renaissance Technologies]([./another-page.html](https://en.wikipedia.org/wiki/Renaissance_Technologies)https://en.wikipedia.org/wiki/Renaissance_Technologies)
+
+[Two_Sigma]([./another-page.html](https://en.wikipedia.org/wiki/Two_Sigma)https://en.wikipedia.org/wiki/Two_Sigma)
+
+
+
+
+
+
+
+
+
+
 
 
 
 [
-colab for DS ML
+William_Delbert_Gann
 ]
 (
 [./another-page.html]
 (
-https://colab.research.google.com/#scrollTo=Nma_JWh-W-IF
+https://en.wikipedia.org/wiki/William_Delbert_Gann
 )
-https://colab.research.google.com/#scrollTo=Nma_JWh-W-IF
+https://en.wikipedia.org/wiki/William_Delbert_Gann
 )
