@@ -46,6 +46,8 @@
 
 [Cymatics]([./another-page.html](https://en.wikipedia.org/wiki/Cymatics)https://en.wikipedia.org/wiki/Cymatics)
 
+[Musica Universalis]([./another-page.html](https://en.wikipedia.org/wiki/Musica_universalis)https://en.wikipedia.org/wiki/Musica_universalis)
+
 
 ### Role Models
 
@@ -76,14 +78,13 @@
 
 
 
-
 [
-Takashi Kotegawa
+Musica Universalis
 ]
 (
 [./another-page.html]
 (
-https://www.worldtopinvestors.com/takashi-kotegawa-investor-profile/
+https://en.wikipedia.org/wiki/Musica_universalis
 )
-https://www.worldtopinvestors.com/takashi-kotegawa-investor-profile/
+https://en.wikipedia.org/wiki/Musica_universalis
 )
