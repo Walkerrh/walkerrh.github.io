@@ -7,16 +7,17 @@
 
 [usethinkscript]([./another-page.html](https://usethinkscript.com/)https://usethinkscript.com/)
 
+[openai]([./another-page.html](https://chat.openai.com/)https://chat.openai.com/)
 
 [
-usethinkscript
+openai
 ]
 (
 [
 ./another-page.html
 ]
 (
-https://usethinkscript.com/
+https://chat.openai.com/
 )
-https://usethinkscript.com/
+https://chat.openai.com/
 )
