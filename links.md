@@ -1,2 +1,2 @@
 
-[Good Calculators]([./another-page.html](https://goodcalculators.com/)https://goodcalculators.com/).
+[Good Calculators]([another-page.html](https://goodcalculators.com/)https://goodcalculators.com/).
