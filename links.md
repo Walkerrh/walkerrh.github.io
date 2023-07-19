@@ -9,9 +9,11 @@
 
 [Good Calculators]([./another-page.html](https://goodcalculators.com/)https://goodcalculators.com/)
 
+
 ### Data
 
 [stlouisfed]([./another-page.html]https://fred.stlouisfed.org/)
+
 
 ### Brokers
 
@@ -21,9 +23,11 @@
 
 [Tradestation]([./another-page.html](https://www.tradestation.com/?gclid=Cj0KCQjwnrmlBhDHARIsADJ5b_mi8oDuAL-up2m7RjrKjKOVHMhLuWrPBXyN7TsPUupCm10ANJ59lvMaAkZpEALw_wcB&gclsrc=aw.ds)https://www.tradestation.com/?gclid=Cj0KCQjwnrmlBhDHARIsADJ5b_mi8oDuAL-up2m7RjrKjKOVHMhLuWrPBXyN7TsPUupCm10ANJ59lvMaAkZpEALw_wcB&gclsrc=aw.ds)
 
+
 ### ML
 
 [colab for DS ML]([./another-page.html](https://colab.research.google.com/#scrollTo=Nma_JWh-W-IF)https://colab.research.google.com/#scrollTo=Nma_JWh-W-IF)
+
 
 ### AI
 
@@ -36,6 +40,7 @@
 [Bloom]([./another-page.html(https://huggingface.co/docs/transformers/model_doc/bloom#transformers.BloomModel)https://huggingface.co/docs/transformers/model_doc/bloom#transformers.BloomModel)
 
 [CS50AI]([./another-page.html](https://cs50.harvard.edu/ai/2020/)https://cs50.harvard.edu/ai/2020/)
+
 
 ### Wikipedia
 
@@ -56,6 +61,9 @@
 
 [Ray_Dalio]([./another-page.html](https://en.wikipedia.org/wiki/Ray_Dalio)https://en.wikipedia.org/wiki/Ray_Dalio)
 
+[Takashi Kotegawa]([./another-page.html](https://www.worldtopinvestors.com/takashi-kotegawa-investor-profile/)https://www.worldtopinvestors.com/takashi-kotegawa-investor-profile/)
+
+
 ### Role Model Funds
 
 [Renaissance Technologies]([./another-page.html](https://en.wikipedia.org/wiki/Renaissance_Technologies)https://en.wikipedia.org/wiki/Renaissance_Technologies)
@@ -69,15 +77,13 @@
 
 
 
-
-
 [
-Ray_Dalio
+Takashi Kotegawa
 ]
 (
 [./another-page.html]
 (
-https://en.wikipedia.org/wiki/Ray_Dalio
+https://www.worldtopinvestors.com/takashi-kotegawa-investor-profile/
 )
-https://en.wikipedia.org/wiki/Ray_Dalio
+https://www.worldtopinvestors.com/takashi-kotegawa-investor-profile/
 )
