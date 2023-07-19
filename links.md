@@ -21,6 +21,9 @@
 
 [Tradestation]([./another-page.html](https://www.tradestation.com/?gclid=Cj0KCQjwnrmlBhDHARIsADJ5b_mi8oDuAL-up2m7RjrKjKOVHMhLuWrPBXyN7TsPUupCm10ANJ59lvMaAkZpEALw_wcB&gclsrc=aw.ds)https://www.tradestation.com/?gclid=Cj0KCQjwnrmlBhDHARIsADJ5b_mi8oDuAL-up2m7RjrKjKOVHMhLuWrPBXyN7TsPUupCm10ANJ59lvMaAkZpEALw_wcB&gclsrc=aw.ds)
 
+### ML
+
+[colab for DS ML]([./another-page.html](https://colab.research.google.com/#scrollTo=Nma_JWh-W-IF)https://colab.research.google.com/#scrollTo=Nma_JWh-W-IF)
 
 ### AI
 
@@ -39,13 +42,16 @@
 [Cymatics]([./another-page.html](https://en.wikipedia.org/wiki/Cymatics)https://en.wikipedia.org/wiki/Cymatics)
 
 
+
+
+
 [
-Tradestation
+colab for DS ML
 ]
 (
 [./another-page.html]
 (
-https://www.tradestation.com/?gclid=Cj0KCQjwnrmlBhDHARIsADJ5b_mi8oDuAL-up2m7RjrKjKOVHMhLuWrPBXyN7TsPUupCm10ANJ59lvMaAkZpEALw_wcB&gclsrc=aw.ds
+https://colab.research.google.com/#scrollTo=Nma_JWh-W-IF
 )
-https://www.tradestation.com/?gclid=Cj0KCQjwnrmlBhDHARIsADJ5b_mi8oDuAL-up2m7RjrKjKOVHMhLuWrPBXyN7TsPUupCm10ANJ59lvMaAkZpEALw_wcB&gclsrc=aw.ds
+https://colab.research.google.com/#scrollTo=Nma_JWh-W-IF
 )
