@@ -1,4 +1,8 @@
 
+Proverbs 12:24 - The hand of the diligent will rule, while the slothful will be put to forced labor
+
+Proverbs 14:23 - All hard work brings a profit, but mere talk leads only to poverty
+
 Colossians 3:23-25 - Whatever you do, work at it with all your heart, as working for the Lord, not for human masters, 24 Since you know that you will receive an inheritance from the Lord as a reward. It is the Lord Christ you are serving. 25 Anyone who does wrong will be repaid for their wrongs, and there is no favoritism
 
 Napoleon Bonaparte - Terrorism, War & Bankruptcy are caused by the privatization of money, issued as a debt and compounded by interest.
