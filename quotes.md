@@ -1,5 +1,5 @@
 
-C.S. Lewis - Human history is the long terrible story oof man trying to find something other than God which will make him happy
+C.S. Lewis - Human history is the long terrible story of man trying to find something other than God which will make him happy
 
 Proverbs 12:24 - The hand of the diligent will rule, while the slothful will be put to forced labor
 
