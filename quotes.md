@@ -1,4 +1,6 @@
 
+C.S. Lewis - Human history is the long terrible story oof man trying to find something other than God which will make him happy
+
 Proverbs 12:24 - The hand of the diligent will rule, while the slothful will be put to forced labor
 
 Proverbs 14:23 - All hard work brings a profit, but mere talk leads only to poverty
