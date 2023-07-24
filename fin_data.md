@@ -1,3 +1,13 @@
+
+
+![F GM Cointegrated Jan 2012 to Jun 2015](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/c54c536d-50c7-46f4-8a79-d7a2694ffc8e)
+
+![F GM normalized Oct 2013 to Oct 2014](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/66a437ec-d9c2-430e-b59a-df105d66543b)
+
+![F GM normalized anchored Oct 2013 to Oct 2014](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/76621af8-8e88-4df1-bfc2-64b78c0bab7f)
+
+
+
 FED Total Assets, SPY, and Recessions
 
 ![FED_TA_SPY_RECESSIONS](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/d82ba884-339a-48a1-b76d-d80aa32297d4)
