@@ -1,11 +1,15 @@
 
+S&P500 divided by M2 Money Supply
+
+![SPY_divided_M2SL](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/a9dd7443-e0dd-4e1b-8cd2-93c9f5a996cb)
+
+F GM Cointegrated Jan 2012 to Jun 2015
 
 ![F GM Cointegrated Jan 2012 to Jun 2015](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/c54c536d-50c7-46f4-8a79-d7a2694ffc8e)
 
 ![F GM normalized Oct 2013 to Oct 2014](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/66a437ec-d9c2-430e-b59a-df105d66543b)
 
 ![F GM normalized anchored Oct 2013 to Oct 2014](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/76621af8-8e88-4df1-bfc2-64b78c0bab7f)
-
 
 
 FED Total Assets, SPY, and Recessions
