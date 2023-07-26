@@ -1,3 +1,8 @@
+
+S&P500 divided by M2 Money Supply
+
+![Figure_1](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/105b2ed6-f9ea-4c57-9c9b-f59f38239c64)
+
 S&P500 divided by M2 Money Supply
 
 ![SPY_divided_M2SL](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/a9dd7443-e0dd-4e1b-8cd2-93c9f5a996cb)
