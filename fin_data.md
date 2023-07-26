@@ -1,11 +1,7 @@
 
 S&P500 divided by M2 Money Supply
 
-![Figure_1](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/2c89e3c7-0883-41b0-9e34-ab4ff4c23a4a)
-
-S&P500 divided by M2 Money Supply
-
-![SPY_divided_M2SL](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/a9dd7443-e0dd-4e1b-8cd2-93c9f5a996cb)
+![SP500 divided M2SL](https://github.com/Walkerrh/walkerrh.github.io/assets/57651882/9cfda615-b399-4ffe-aa03-df53df221df2)
 
 F GM Cointegrated Jan 2012 to Jun 2015
 
