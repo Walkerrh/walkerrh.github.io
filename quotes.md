@@ -1,4 +1,6 @@
 
+Genesis 1:26-27 - Then God said, Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground. 27 God created mankind in his own image, in the image of God he created them; male and female he created them.
+
 Matthew 4:4 - Jesus answered, It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.
 
 2 Chronicles 7:14 - If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then I hear from heaven, and will forgive their sin, and will heal their land.
