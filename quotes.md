@@ -1,4 +1,36 @@
 
+Isaiah 40:31 - But those who trust in the Lord will receive new strength. They will fly as high as eagles. They will run and not get tired. They will walk and not grow weak
+
+Proverbs 24:16 - For through the righteous fall seven times, they rise again, but the wicked stumble when calamity strikes.
+
+Romans 14:11 - As surely as I live, says the Lord, every knee will bow before me; every tongue will acknowledge God.
+
+Isaac Newton - Atheism is so disgusting and meaningless that it has never had many advocates.
+
+Werner Heisenberg - The first gulp from the glass of natural sciences will make you an athiest, but at the bottom of the glass God is waiting for you.
+
+James Clerk Maxwell - I have looked into most philosophical systems and I have seen none that will work without God.
+
+Louis Pasteur - A little science distances you from God, but a lot of science brings you nearer to Him
+
+Albert Einstein - The more I study Science, the more I believe in God
+
+Nikola Tesla - The gift of mental power comes from God, Divine Being, and if we concentrate our minds on that truth, we become in tune with this great power. My Mother had taught me to seek all truth in the Bible. 
+
+Proverbs 13:20 - Walk with the wise and become wise; associate with fools and get in trouble.
+
+1 Peter 4:4 - Of course, your former friends are surprisedd when you no longer plunge into the flood of wild and destructive things they do. So they slander you.
+
+Proverbs 20:30 - Sometimes it takes a painful experience to make us change our ways.
+
+Proverbs 20:1 - Wine produces mockers; alcohol leads to brawls. Those led astray by drink cannot be wise.
+
+1 John 2:15 - Do not love this world nor the things it offers you, for when you love the world, yoou do not have the love of the Father in you
+
+Ephesians 4:29 - Don't use foul or abusive language. Let everything you say be good and helpful, so that your words will be encouragement to those who hear them.
+
+1 Coriinthians 6:18-19 - Run from sexual sin! No oother sin so clearly affects the body as this one does. For sexual immorality is a siin against your own body. 19 Don't you realizee that your body is the temple of the Holy Spirit who lives in you by God? You do not belong to yourself
+
 Genesis 1:26-27 - Then God said, Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground. 27 God created mankind in his own image, in the image of God he created them; male and female he created them.
 
 Matthew 4:4 - Jesus answered, It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.
